@@ -75,6 +75,9 @@ As an Admin, i would like to:
 - Google fonts
 
 ## Live link
+ 
+ Live link: [Photofolio live link](https://myphotofolio.herokuapp.com/)
+
 
 
 ## Support and contact details
