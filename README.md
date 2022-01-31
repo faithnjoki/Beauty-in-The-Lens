@@ -76,7 +76,7 @@ As an Admin, i would like to:
 
 ## Live link
  
- Live link: [Photofolio live link](https://myphotofolio.herokuapp.com/)
+ Live link: [live link](https://myphotofolio.herokuapp.com/)
 
 
 
