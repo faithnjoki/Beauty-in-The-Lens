@@ -1,4 +1,4 @@
-# Photos
+#Beauty in The Lens
 
 
 ### Description
